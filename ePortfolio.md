@@ -38,6 +38,7 @@ Hier ist es auch sehr sinnvoll diese Errungenen Einsichten als Reflektion herunt
 | Dokumentiert Inhalt | Dokumentiert Lernprozess |    Dokumentiert nicht |
 | Reflexion der Inhalte | Reflexion des Lernens      |    Keine Reflexion |
 | Querverbindungen möglich | Querverbindungen möglich      |    Keine Querverbindungen möglich |
+
 Wie einfach zu erkennen ist, wird durch die obere Tabelle deutlich der Unterschied zwischen ePortfolio, Lernjournal und Datenablagen gezeigt, diese werden jedoch meistens leider als sehr ähnliche Konstrukte der Wissenerkennung oder Abspeicherung gesehen.
 ***
 ## Reflektion
