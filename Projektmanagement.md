@@ -117,3 +117,104 @@ Der Ansatz ist aber ansonsten mit den Arbeitspaketen fast der gleiche wie beim O
 
 ### Arbeitspakete
 Ein Arbeitspaket ist ein Arbeitsschritt oder Arbeitsobjekt welches in einem Ablauf visualisiert ist, Abhängigkeiten haben, eine bestimmte Definition vom abgeschlossen sein und nur einen Titel / eine Funktion haben.
+
+## Rollen eines Projektes
+Ein Projekt enthällt mehrere Personen (wie bereits definiert, sonst wäre es nicht ein Projekt), welche verschiedene Positionen in diesem ausüben und verschiedene Verantwortungspositionen haben. Diese werden im folgenden erläutert.
+Wichtig ist hierbei auch die Information, dass einer Person mehrere Rollen gleichzeitig zugewiesen werden können. So kann der Antragsteller auch gleichzeitig Teil des Projektgremiums sein, die Problematik hierbei ist jedoch, dass Interessenkonflikte entstehen können wenn eine Person mehrere Rollen hat.
+### Vorabinfo AKV 
+AKV steht für Aufgabe-Kompetenz-Verantwortung, am einfachsten ist dies an einem Beispiel zu erklären.
+Sie bekommen die simple **Aufgabe** neue Computer zu bestellen.
+Hierfür wird die **Kompetenz** gefordert sich mit Computern auszukennen.
+Und wenn es ein Problem gibt, liegt es in der **Verantwortung** der zuständigen Person, welche die Aufgabe ausgeführt hat.
+
+Eine gute Praxis hierbei ist, Mitarbeitern nur Aufgaben zu geben für die diese auch kompetent genug sind. 
+
+
+### Antragsteller
+ - Jede Person kann Antragsteller werden
+ - Endet sobald das Projekt startet
+ - Antragsteller wird zum Auftraggeber
+
+
+### Bewilligungsgremium
+Alle Personen die ein Projekt anfänglich bewilligen müssen.
+Trifft sich meist periodisch (bspw. wöchentlich, monatlich)
+
+ - Entscheidet welche Projekte ausgeführt werden, wer das Entscheidungsgremium ist
+ - Gibt Projekte und Budget frei
+ - Bereinigt Konflikte, strategische Ausrichtung von Projekten
+
+
+### Auftraggeber
+
+ - Muss vorhanden sein
+ - Beschreibt Projekt
+ - Im Entscheidungsgremium
+ - Übernimmt Kosten
+
+
+### Entscheidungsgremium
+
+ - Projektorganisation zusammenstellen, Projektantrag konkretisieren, Entscheidungsmacht
+ - Entscheidet über Weiterführung/Stoppen/etc, setzt Prioritäten, stellt Änderungsanträge
+ - Korrekter Projektvorgang, Einhaltung von Ressourcen
+
+### Projektleiter
+
+ - Arbeitspakete definieren, koordinieren und dem Entscheidungsgremium berichten
+ - Aufgaben delegieren, Steuerung des Projektes, Verwaltung der Ressourcen
+ - Ziel des Auftraggebers Umsetzen mit den gegebenen Ressourcen/Zeit/Qualität
+
+
+### Projektmitarbeiter
+
+ - Führt Arbeitspakete aus indem Lösungen gefunden werden
+ - Kompetent genug eigene Lösungen zu finden
+ - Selbstständiges Ausführen und Mitdenken bei Arbeitspaketen
+
+
+### Fachbeauftragte
+
+ - Bringen Spezialwissen für einzelne Fachgebiete
+
+
+### Geschäftsleitung
+
+ - Oberste Entscheidungsmacht
+
+
+### Unterschiede in Scrum
+Scrum Master -> organisiert den Scrum Prozess
+Product Owner -> Projektleiter
+Stakeholder -> Auftraggeber
+Entwicklerteam -> Projektmitarbeiter
+Andere nicht hier aufgeführte Rollen können natürlich auf in Scrum aufgenommen werden, wie bspw. ein Bewilligungsgremium
+
+## Entscheidungen
+### Machbarkeit
+
+ - Ist das Projekt umsetzbar mit den angegebenen Ressourcen/Deadlines?
+ - Können Ziele erreicht werden?
+ - Können die Rahmenbedingungen eingehalten werden?
+
+
+### Abstimmungen
+Es können Abstimmungen zu den einzelnen Aspekten wie bspw. die zu verwendente Technologie gemacht werden.
+Hierbei wird jedem Teilnehmer die Möglichkeit gegeben, an einer Abstimmung Teilzunehmen und einen Werte in einem festgelegtem Bereich zu vergeben, diese werden dannach zusammengezählt und der Aspekt mit den meisten/wenigsten Punkten gewinnt.
+
+### Andere Aspekte über die nachgedacht werden muss
+
+ - Partnerschaften
+ - Preise
+ - Erfahrungen mit dem Anbieter
+ - Zukunftstechnologie
+ - etc
+
+***
+## Reflektion
+Projektmanagement ist ein großes Thema welches Omnipresent ist. Hierbei ist vorallem sehr darauf zu achten, welche Ansätze verfolgt werden, vorallem für mein persönliches Fachwissen habe ich in diesem Aspekt viele Informationen und neue Modelle mitnehmen können. Auch wenn vermutlich einige dieser mir in naher Zukunft nicht behilflich sein werden, da in meiner Firma hauptsächlich ein agiles Scrum Modell verwendet wird und ich dieses persönlich auch am angenehmsten finde.
+Dennoch habe ich auch viele Einsichten erhalten in die mir bereits bekannten Arten von Projektmanagement, so konnte ich für mich einige verschiedene Elemente vertiefen und mir diese besser vorstellen und auf der Arbeit und im Privaten Leben effektiver verwenden.
+Generell eine Übersicht auf die verschiedenen Rollen im Projekt zu haben ist auch eine sehr hilfreiche abstrakte Idee die im Hinterkopf behalten werden soll. Auch für einen psychologischen Aspekt *Wo bin ich in dieser Hierachie und wo will ich später einmal sein?* ist dies sehr hilfreich.
+Beim Thema Entscheidungen waren mir persönlich auch viele Möglichkeiten bekannt, jedoch ist es trotzdem eine gute Auffrischung sich in den Sinn zu rufen warum diese Entscheidung so getroffen wurde.
+Schlussendlich ist noch zu sagen, dass dieses Thema sehr gut mit den anderen Themen verknüpfbar ist. So ist bei einem Projektleiter immer eine gewisse Sozialkompetenz und bei einem Projektmitarbeiter eine gewisse Fachkompetenz vorausgesetzt, welche hier nur verknüpft werden kann, da sie vorher behandelt wurde.
+Genauso kann das Thema Handlungskompetenzen hier sehr gut verknüpft werden, da diese auch für die meisten Modelle anwendbar ist und in Kombination meist ein gutes Ergebnis präsentieren wird.
