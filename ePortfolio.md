@@ -1,5 +1,4 @@
 # ePortfolio
-Eine Sammlung von Inhalten zum Modul 431 und dessen Reflektionen von Felix Gerber.
 
 ## Was ist ein ePortfolio
 Ein **E-Portfolio** (_Elektronisches Portfolio_) ist die digitale Form eines Portfolios, das die neuen Medien zur Umsetzung dieses alten Konzeptes nutzt. Das E-Portfolio besteht aus „digitalen Sammelmappen“, mit denen Menschen (z. B. Studierende) ihren Lernprozess dokumentieren, reflektieren und/oder präsentieren können. Ein E-Portfolio impliziert damit ein Lerntagebuch. (Wikipedias offizielle Definition, 12.01.2022, https://de.wikipedia.org/wiki/E-Portfolio)
@@ -45,4 +44,14 @@ Wie einfach zu erkennen ist, wird durch die obere Tabelle deutlich der Unterschi
 Der Aufbau und Besitz eines ePortfolios ist eine sehr nützliche und vorallem sehr übersichtliche Art und Weise den eigenen Fortschritt zu messen und zu sehen wie man selbst gewachsen ist / was man selbst an Kompetenzen und Qualifikationen erworben hat.
 In meinem Ausbildungsunternehmen (Hoffmann la Roche) wird uns auch ans Herz gelegt, dass wir unseren Lernfortschritt dokumentieren, auch wenn nur im Sinne eines Lernjournals.
 Für mich persönlich ist jedoch ein ePortfolio (spätestens nach Besuch dieses Moduls) sehr essenziell und ich werde mir selbst auch ein ePortfolio im Sinne eines Webseiten Blogs aufbauen, um mir und anderen den Fortschritt in meiner Karriere in der Informatik aufzeigen zu können.  
+
+## Lernjournal
+![Lernjournal1](./Lernjournal-Felix-1.png)
+![Lernjournal2](./Lernjournal-Felix-2.png)
+![Lernjournal3](./Lernjournal-Felix-3.png)
+![Lernjournal4](./Lernjournal-Felix-4.png)
+![Lernjournal5](./Lernjournal-Felix-5.png)
+![Lernjournal6](./Lernjournal-Felix-6.png)
+![Lernjournal7](./Lernjournal-Felix-7.png)
+![Lernjournal8](./Lernjournal-Felix-8.png)
  
