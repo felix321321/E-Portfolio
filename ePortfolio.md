@@ -46,12 +46,14 @@ In meinem Ausbildungsunternehmen (Hoffmann la Roche) wird uns auch ans Herz gele
 Für mich persönlich ist jedoch ein ePortfolio (spätestens nach Besuch dieses Moduls) sehr essenziell und ich werde mir selbst auch ein ePortfolio im Sinne eines Webseiten Blogs aufbauen, um mir und anderen den Fortschritt in meiner Karriere in der Informatik aufzeigen zu können.  
 
 ## Lernjournal
-![Lernjournal1](./Lernjournal-Felix-1.png)
-![Lernjournal2](./Lernjournal-Felix-2.png)
-![Lernjournal3](./Lernjournal-Felix-3.png)
-![Lernjournal4](./Lernjournal-Felix-4.png)
-![Lernjournal5](./Lernjournal-Felix-5.png)
-![Lernjournal6](./Lernjournal-Felix-6.png)
-![Lernjournal7](./Lernjournal-Felix-7.png)
-![Lernjournal8](./Lernjournal-Felix-8.png)
- 
+![Lernjournal1](./Lernjournal-Felix-01.png)
+![Lernjournal2](./Lernjournal-Felix-02.png)
+![Lernjournal3](./Lernjournal-Felix-03.png)
+![Lernjournal4](./Lernjournal-Felix-04.png)
+![Lernjournal5](./Lernjournal-Felix-05.png)
+![Lernjournal6](./Lernjournal-Felix-06.png)
+![Lernjournal7](./Lernjournal-Felix-07.png)
+![Lernjournal8](./Lernjournal-Felix-08.png)
+![Lernjournal9](./Lernjournal-Felix-09.png)
+![Lernjournal10](./Lernjournal-Felix-10.png)
+![Lernjournal11](./Lernjournal-Felix-11.png)
