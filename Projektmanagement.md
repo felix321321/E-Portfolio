@@ -53,3 +53,67 @@ Die vorherigen Methoden waren alle samt sehr statisch und eigenen sich nicht wir
 Im folgenden finden sich einige Beispiele für **Agile Methoden**.
 
 ### Spiralmodell
+![Spiralmodell: Risikominimierendes Modell für Softwareprojekte - IONOS](https://www.ionos.de/startupguide/fileadmin/StartupGuide/Screenshots_2019/spiralmodell-DE-1.png)
+
+Das Spiralenmodell ist an sich sehr selbsterklährend, hierbei wird eine Spirale so oft abgefahren, bis sie abgeschlossen ist (hoffentlich im ersten Ablauf) und dannach eine Stufe nach "außen" verlagert und ein feinerer Entwurf des Plans gemacht.
+Nach der erste Planung, dem Konzept und der Risikoanalyse fängt der Zyklus im obrigen Beispiel nochmals von vorne an, nur wird dieses mal nicht die erste Planung gemacht, sondern die Grundanforderungen definiert um in der nächsten gleichen Position zuerst den groben Entwurf zu erstellen und dannach den Feinentwurf.
+Dies gilt natürlich auch für die anderen Aspekte wie Validierung und Implementationen.
+Da das Modell in einer Spirale aufgebaut ist, ist die Dauer bis zur nächsten gleichen Position immer mit unterschiedlich viel vergangener Fläche verbunden, welche mit der benötigten Zeit assoziiert werden kann.
+
+[Weiterführende Informationen](https://www.ionos.de/startupguide/produktivitaet/spiralmodell/)
+
+### Extreme Programming
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Extreme_Programming_Planungs-_und_Feedback-Schleifen.svg/400px-Extreme_Programming_Planungs-_und_Feedback-Schleifen.svg.png)
+
+Das Extreme Programming Modell beschreibt einen Ansatz in welchem in verschiedenen Etappen geplant wird und gewisse Umsetzungen (wie bspw. Unit Tests) auf bestimmte Zeiträume (wie bspw. Minuten) gemappt werden.
+Die Vorgangsweise ist am besten anhand eines Projekts zu erklären.
+
+ 1. Code wird mit Patnern in minimalsten Abständen abgesprochen, beispielsweise im Pair Programming arbeiten zwei Programmierer zusammen um besser Fehler zu erkennen und so effektiver zu programmieren.
+ 2. Im Minuten Abstand werden Unittests durchgeführt, entweder automatisch (wenn Code hochgeladen wird) oder es werden neue Test geschrieben welche vor oder während dem hochladen benutzt werden.
+ 3. Im Abschnitt Pair Negotiation geht es darum, Code welcher benutzt wird mit seinen anderen Partnern abzusprechen, dies kann in stündlichen Abständen erfolgen.
+ 4. Jeden Morgen wird ein sogenanntes Standup gehalten, bei dem darüber gesprochen wird was jede Person vor hat und wie sie versucht dies umzusetzen.
+ 5. Der Acceptance Test ist ein Schritt indem Stakeholder des Projektes sich den aktuellen Stand des Projektes ansehen und dazu informative Rückmeldung geben, welche normalerweise integriert wird. Dieser Schritt wird meist an Ende der Woche oder nach einiges Tagen durchgeführt.
+ 6. Der Iterationen Plan ist die Besprechung des Projektes und ob diverse Anpassungen an Projektmanagement Themen gemacht werden müssen. Dieser Schritt passiert jedoch nur alle paar Wochen.
+ 7. Wenn all diese Schritte abgeschlossen sind, so wird ein Plan zum ausrollen oder finalisieren des Projektes gemacht und das Projekt dannach als beendet erklärt.
+
+[Weiterführende Informationen](https://de.wikipedia.org/wiki/Extreme_Programming)
+### Scrum
+![Mit Scrum erfolgreich zum agilen Projektmanagement | DIM-Blog](https://www.marketinginstitut.biz/blog/wp-content/uploads/2020/09/SCRUM-1.png)
+
+Das Scrum Modell ist ein Art der agilen Entwicklung, welche auch oft in einem Softwaretechnischen Umfeld benutzt wird.
+Die großen Vorteile von Scrum sind, dass es 
+ - regelmässig gut sichtbaren Fortschritt gibt
+ - regelmässig die Qualität geprüft werden kann
+ - regelmässig Anforderungen neu angepasst werden können
+
+Der generelle Ansatz von Scrum ist, dass in einem Entwicklungsteam immer wieder neue Iterationen durchlaufen werden, in welchen die oben genannten Punkte besprochen und angepasst werden können.
+Oft wird auch ein Daily gehalten, in welchem die tagesaktuellen Fortschritte besprochen werden und die Pläne der einzelnen Personen.
+Nach einen Sprint (Iteration) werden die Anforderungen neu definiert und der letzte Spring kritisch analysiert und mögliche Verbesserungen zu dessen Ablauf.
+Normalerweise enden Sprints auch nicht einfach sondern es folgt nach einem Sprint immer ein neuer Sprint.
+
+[Weiterführende Informationen](https://de.wikipedia.org/wiki/Scrum)
+## Weiteres zu Agilem
+Sehr wichtig ist die Unterscheidung zwischen verschiedenen Meinungen zu Agilität.
+Denn bei Agilität ist es sehr wichtig einen Plan zu haben und sich stetig den wechselnden Anforderungen zu stellen.
+Und **nicht ohne Plan** einfach nur irgendwie Lösungen für Probleme zu finden.
+
+## Projektstrukturpläne
+Ein Projektstrukturplan ist eine Möglichkeit ein Projekt in mehrere Arbeitspakete zu unterteilen, hierfür gibt es zwei Möglichkeiten. Entweder es wird ein Objektorientiert- oder ein Funktionsorientierter Funktionsplan erstellt, diese werden im folgenden erläutert.
+
+### Objektorientierter Funktionsplan
+![Projektstrukturplan – Wikipedia](https://upload.wikimedia.org/wikipedia/de/1/1e/PSP_Garage.jpg)
+
+Hierbei werden verschiedene Objekte (bspw. der Rohbau) definiert welche benötigt werden zur Beendung des Projektes welche dannach in weitere Unterprojekte mit Objekten definiert werden.
+
+ - Für den Garagenbau benötigt es einen **Rohbau**
+ - Für den Rohbau benötigt es einen **Maurer**
+ - Für einen Maurer benötigt es bspw. einen Vertrag
+
+### Funktionsorientierter Funktionsplan
+![Projektstrukturplan – alles was Sie zum PSP wissen müssen](https://www.theprojectgroup.com/blog/wp-content/uploads/2019/01/PSP_Beispiel1_klein.png)
+
+Mit diesem Ansatz wird eine Funktion vorrausgetzt anstelle eines Objektes (bspw. das Designen).
+Der Ansatz ist aber ansonsten mit den Arbeitspaketen fast der gleiche wie beim Objektorientierten Funktionsplan, indem Pakete zu den einzelnen Funktionen erstellt werden, hierbei können jedoch Funktionen in Unterkategorien durch Objekte ersetzt werden.
+
+### Arbeitspakete
+Ein Arbeitspaket ist ein Arbeitsschritt oder Arbeitsobjekt welches in einem Ablauf visualisiert ist, Abhängigkeiten haben, eine bestimmte Definition vom abgeschlossen sein und nur einen Titel / eine Funktion haben.
