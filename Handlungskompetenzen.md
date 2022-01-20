@@ -56,7 +56,7 @@ Im folgenden ein paar Beispiele für Selbstkompetenz.
 |Gesundheitskompetenz  |Gesund und Gesundheitsorientiert leben  |
 ***
 ## Reflektion
-Generell ist zu sagen, dass es mir sehr schwer viel manche Unterkompetenzen zu definieren und diese auszuschreiben. Jedoch hat mir dies gezeigt, dass ich nun alle Kompetenzen nennen und außerdem diese nun bewusster wahrnehmen kann.
+Generell ist zu sagen, dass es mir sehr schwer fiel manche Unterkompetenzen zu definieren und diese auszuschreiben. Jedoch hat mir dies gezeigt, dass ich nun alle Kompetenzen nennen und außerdem diese nun bewusster wahrnehmen kann.
 Gerade diese Bewusstheit, sollte man sich ihr offen stellen, kann und sollte dazu führen über sich selbst nachzudenken und kritisch seinen eigenen Stand an Kompetenzen zu betracheten. 
 Denn auch wenn beispielsweise die Fachkompetenz sehr durch die angeborene Intelligenz bestimmt wird, so kann man immer weiter Qualifikationen und Fertigkeiten sammeln welche die Fachkompetenz steigern. 
 Im selben Schritt kann auch die Sozialkompetenz bei schüchtereren Menschen (bei mir ist dies zwar nicht der Fall, jedoch gut im Hinterkopf zu behalten, dass dies so ist) durch eine Therapie gesteigert bzw. ausgebaut / erweitert werden.
