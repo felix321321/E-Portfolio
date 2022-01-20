@@ -2,6 +2,8 @@
 
 Eine Sammlung von Inhalten zum Modul 431 und dessen Reflektionen von Felix Gerber.
 
+Quellen sind wenn nicht anders angegeben nur die Informationen aus dem Modul 431 von Lukas Hodel.
+
 [Hier geht es zu Inhalten zum E-Portfolio](./ePortfolio.md)
 
 [Hier geht es zu Inhalten zu Handlungskompetenzen](./Handlungskompetenzen.md)
