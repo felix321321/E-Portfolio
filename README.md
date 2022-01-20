@@ -12,7 +12,7 @@ Eine Sammlung von Inhalten zum Modul 431 und dessen Reflektionen von Felix Gerbe
 
 [Hier geht es zu Inhalten zu Projektmanagement](./Projektmanagement.md)
 
-[Hier geht es zu Inhalten zu Präsentationstechniken](./Präsentationstechniken.md)
+[Hier geht es zu Inhalten zu Präsentationskonzept](./Präsentationskonzept.md)
 
 ***
 ## Fazit
