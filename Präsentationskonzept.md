@@ -83,3 +83,5 @@ Das Wiederholen der Präsentationstechniken hat mir persönlich sehr geholfen. J
 Generell ist dies jedoch ein sehr wichtiges Thema, denn richtig präsentieren ist ein sehr wichtiger Skill im Business Leben.
 Ich persönlich habe schon sehr viele Präsentationen gehabt und verwende auch selbst die meisten hier gennanten Themen um meine Präsentationen so optimal wie möglich gestalten. Besonders geholfen hat mir in diesem Thema jedoch die dauerhafte Erinnerung, dass man Bilder verwenden sollte, denn dies ist wirklich sehr wichtig, auch für zukünftige Business Cases.
 Bei dem Thema Lampenfieber kann es auch sehr viel helfen eine hohe [Sozialkompetenz](./Handlungskompetenzen.md) zu haben oder zu erwerben oder sich selbst ein [E-Portfolio](./ePortfolio.md) aufzubauen um selbstbewusster da zu stehen wenn man etwas präsentieren muss. Ein E-Portfolio zeigt ja bereits auf, dass man den Inhalt verstanden hat und heruntergeschrieben hat.
+
+[Um zur Übersicht zurückzukommen hier klicken](./README.md)
