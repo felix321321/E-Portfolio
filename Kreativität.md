@@ -31,3 +31,5 @@ Ein weiterer Vorteil sind die neuen Lösungen die für Probleme entdeckt werden.
 ## Reflektion
 Zu diesem Thema ist rückblickend zu sagen, dass **Kreativität** sehr wichtig für mich selbst und mein Arbeitsumfeld ist. Denn ohne diese **Kreativität** wären Aufgaben wie Programme schreiben, Algorithmen entwerfen oder andere kreative Lösungsansätze finden sehr schwer. Ich persönlich versuche mich also dementsprechend kreativ zu halten, indem ich mich sehr oft über Sachen und Dinge informiere welche interessant für mich sind, viel Zeit für mich und meine Gedanken die in meinem Kopf kreisen nehme. Herunterschreibmethoden wie bspw. das erschaffen von Mindmaps waren mir bereits vor dem Modul bekannt finden jedoch auch in meinem persönlichen wie beruflichen Leben eine sehr große und hilfreiche Verwendung. 
 Abschliesend macht es noch Sinn zu sagen, dass meiner Meinung nach jede Person kreativ sein kann, wenn sie denn nur möchte. Nicht jede Person kann in jedem Bereich kreativ sein, aber ich denke jede hat ihren eigenen kreativen Bereich, egal ob im Kochen, Zeichnen, Knobeln/Denken, Programmieren oder anderem.
+
+[Um zur Übersicht zurückzukommen hier klicken](./README.md)
