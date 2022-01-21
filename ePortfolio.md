@@ -43,7 +43,9 @@ Wie einfach zu erkennen ist, wird durch die obere Tabelle deutlich der Unterschi
 ## Reflektion
 Der Aufbau und Besitz eines ePortfolios ist eine sehr nützliche und vorallem sehr übersichtliche Art und Weise den eigenen Fortschritt zu messen und zu sehen wie man selbst gewachsen ist / was man selbst an Kompetenzen und Qualifikationen erworben hat.
 In meinem Ausbildungsunternehmen (Hoffmann la Roche) wird uns auch ans Herz gelegt, dass wir unseren Lernfortschritt dokumentieren, auch wenn nur im Sinne eines Lernjournals.
-Für mich persönlich ist jedoch ein ePortfolio (spätestens nach Besuch dieses Moduls) sehr essenziell und ich werde mir selbst auch ein ePortfolio im Sinne eines Webseiten Blogs aufbauen, um mir und anderen den Fortschritt in meiner Karriere in der Informatik aufzeigen zu können.  
+Für mich persönlich ist jedoch ein ePortfolio (spätestens nach Besuch dieses Moduls) sehr essenziell und ich werde mir selbst auch ein ePortfolio im Sinne eines Webseiten Blogs aufbauen, um mir und anderen den Fortschritt in meiner Karriere in der Informatik aufzeigen zu können.
+
+[Um zur Übersicht zurückzukommen hier klicken](./README.md)
 
 ## Lernjournal
 ![Lernjournal1](./Lernjournal-Felix-01.png)
