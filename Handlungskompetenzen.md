@@ -60,3 +60,5 @@ Generell ist zu sagen, dass es mir sehr schwer fiel manche Unterkompetenzen zu d
 Gerade diese Bewusstheit, sollte man sich ihr offen stellen, kann und sollte dazu führen über sich selbst nachzudenken und kritisch seinen eigenen Stand an Kompetenzen zu betracheten. 
 Denn auch wenn beispielsweise die Fachkompetenz sehr durch die angeborene Intelligenz bestimmt wird, so kann man immer weiter Qualifikationen und Fertigkeiten sammeln welche die Fachkompetenz steigern. 
 Im selben Schritt kann auch die Sozialkompetenz bei schüchtereren Menschen (bei mir ist dies zwar nicht der Fall, jedoch gut im Hinterkopf zu behalten, dass dies so ist) durch eine Therapie gesteigert bzw. ausgebaut / erweitert werden.
+
+[Um zur Übersicht zurückzukommen hier klicken](./README.md)
