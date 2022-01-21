@@ -218,3 +218,5 @@ Generell eine Übersicht auf die verschiedenen Rollen im Projekt zu haben ist au
 Beim Thema Entscheidungen waren mir persönlich auch viele Möglichkeiten bekannt, jedoch ist es trotzdem eine gute Auffrischung sich in den Sinn zu rufen warum diese Entscheidung so getroffen wurde.
 Schlussendlich ist noch zu sagen, dass dieses Thema sehr gut mit den anderen Themen verknüpfbar ist. So ist bei einem Projektleiter immer eine gewisse [Sozialkompetenz](./Handlungskompetenzen.md) und bei einem Projektmitarbeiter eine gewisse [Fachkompetenz](./Handlungskompetenzen.md) vorausgesetzt, welche hier nur verknüpft werden kann, da sie vorher behandelt wurde.
 Genauso kann das Thema [Handlungskompetenzen](./Handlungskompetenzen.md) hier sehr gut verknüpft werden, da diese auch für die meisten Modelle anwendbar ist und in Kombination meist ein gutes Ergebnis präsentieren wird.
+
+[Um zur Übersicht zurückzukommen hier klicken](./README.md)
